@@ -16,6 +16,9 @@
 
 <div align="center">
  <h2 align="center">🌴 Meus contatos</h2>
+<div class="mail">
+ <a href="mailto:sync@redeslyp.tk">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 <div class="discord">
  <a href="https://discord.com/users/494573092107190272">
