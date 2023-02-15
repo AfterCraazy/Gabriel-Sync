@@ -29,12 +29,3 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
  </div>
- 
- <h2 align="center">🚧 Minha atividade</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ovqn2osjtwpmqg7fyekic7xscm?si=e42f2a39071b4e97">
-  <img height="145em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
-  <a href="https://discord.com/users/494573092107190272"> 
-  <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
-</div>
