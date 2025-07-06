@@ -1,31 +1,60 @@
-<div>
-<h1 align="center">👋 Olá, me chamo Gabriel Henrique, mais conhecido como decorlk.</h1>
-<h3 align="center">Tenho 17 anos e programo principalmente em Java e Kotlin!</h3>
+<h1 align="center">Olá! 👋 Eu sou o Gabriel Henrique</h1>
 
-<p align="center">👨‍🌾 ➥ Dono e Responsável pela <strong>Rede Slyp</strong> (https://discord.gg/redeslyp) -</p>
-<p align="center">🧪 ➥ Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages e Kotlin</strong> -</p>
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Profile%20Views" />
+</p>
+
+---
+
+### 🦖 Sobre Mim!  
+Estudante de Engenharia de Software na UNDB
+
+Apaixonado por Desenvolvimento Backend
+
+Focado em Java, Kotlin e Arquitetura de Sistemas
+Adoro trabalhar com SpringBoot, Bukkit e JDA
+
+---
+
+### 🛠 Tech Stack  
+#### Linguagens  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+#### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Ferramentas e estruturas  
+![Git](https://img.shields.io/badge/Git-%F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![KTor](https://img.shields.io/badge/Ktor-%230095D5.svg?style=for-the-badge&logo=ktor&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-%6965DB.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### IDEs & OS  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
 <div align="center">
-<h2>⭐ Minhas Skills</h2>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
+  <img src="https://github-readme-stats.vercel.app/api?username=syncwrld&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://streak-stats.demolab.com?user=syncwrld&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
+---
 
+### 🤝 Entre em Contato Comigo!
 <div align="center">
- <h2 align="center">🌴 Meus contatos</h2>
-<div class="mail">
- <a href="mailto:sync@redeslyp.tk">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-<div class="discord">
- <a href="https://discord.com/users/494573092107190272">
- <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
-<div calss="instagram">
- <a href="https://instagram.com/heyferreirasz">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</div>
- </div>
+  <a href="https://discord.com/users/494573092107190272" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
