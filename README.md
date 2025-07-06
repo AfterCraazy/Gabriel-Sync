@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">👋 Olá, me chamo Gabriel Sync.</h1>
+<h1 align="center">👋 Olá, me chamo Gabriel Henrique, mais conhecido como decorlk.</h1>
 <h3 align="center">Tenho 17 anos e programo principalmente em Java e Kotlin!</h3>
 
 <p align="center">👨‍🌾 ➥ Dono e Responsável pela <strong>Rede Slyp</strong> (https://discord.gg/redeslyp) -</p>
