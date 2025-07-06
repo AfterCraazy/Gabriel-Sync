@@ -45,14 +45,6 @@ Adoro trabalhar com SpringBoot, Bukkit e JDA
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syncwrld&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
-  <img src="https://streak-stats.demolab.com?user=syncwrld&theme=tokyonight&hide_border=false" height="180" />
-</div>
-
----
-
 ### 🤝 Entre em Contato Comigo!
 <div align="center">
   <a href="https://discord.com/users/494573092107190272" target="_blank">
